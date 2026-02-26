@@ -1,0 +1,54 @@
+# JVKE – clouds
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Yeah, I'm down bad, bad
+Happiness was just a fad, fad
+The serotonin highs
+keep fallin' down
+Yeah, I'm in my head, head
+Overthinking everything, thing
+Swimming in my thoughts,
+don't let me drown
+Every time I need a pick me up
+You hit me up
+One hit is enough
+You got my head above
+the clouds
+My feet up off the ground
+And I'm not comin' down,
+down, down, down
+Got my speakers bumping loud
+I'm feelin' every sound
+And I won't turn 'em down,
+down, down, down
+Oh, and I'm not coming down,
+down, down, down
+I'm in my bag, bag
+Like, new Chanel I'm poppin
+tag, tags
+Yeah, I can see both sides
+with you around
+We're livin' fast, fast
+And baby, even if we crash,
+crash
+You gas me up
+when I'm breakin' down
+Every time I need a pick me up
+You hit me up
+One hit is enough
+You got my head above
+the clouds
+My feet up off the ground
+And I'm not comin' down, down,
+down, down
+Got my speakers bumping loud
+I'm feelin' every sound
+And I won't turn 'em down,
+down, down, down
+Oh, and I'm not coming down,
+down, down, down
+And I'm not coming down, down,
+down, down
+```
