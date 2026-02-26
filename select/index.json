@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "clouds",
+  "base_artist": "JVKE",
+  "createdAt": "2026-02-26T17:07:25.999686Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Up in the Clouds",
+      "artist": "RJD2 feat. Blueprint",
+      "has_synced": false,
+      "path": "select/01_Up_in_the_Clouds_RJD2_feat._Blueprint.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Up in the Clouds (feat. Blueprint)",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/02_Up_in_the_Clouds_(feat._Blueprint)_RJD2.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beyond the Clouds",
+      "artist": "You'll Never Get to Heaven",
+      "has_synced": true,
+      "path": "select/03_Beyond_the_Clouds_You'll_Never_Get_to_Heaven.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Clouds",
+      "artist": "Chaka Khan",
+      "has_synced": false,
+      "path": "select/04_Clouds_Chaka_Khan.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Little Fluffy Clouds (Cumulo Nimbus mix)",
+      "artist": "The Orb",
+      "has_synced": false,
+      "path": "select/05_Little_Fluffy_Clouds_(Cumulo_Nimbus_mix)_The_Orb.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Far Above the Clouds",
+      "artist": "Mike Oldfield",
+      "has_synced": false,
+      "path": "select/06_Far_Above_the_Clouds_Mike_Oldfield.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "He Films The Clouds",
+      "artist": "Maybeshewill",
+      "has_synced": false,
+      "path": "select/07_He_Films_The_Clouds_Maybeshewill.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I've Seen The Light / Inside Of Clouds",
+      "artist": "N.E.R.D",
+      "has_synced": false,
+      "path": "select/08_I've_Seen_The_Light___Inside_Of_Clouds_N.E.R.D.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I've Seen The Light \u0000 Inside of Clouds",
+      "artist": "N.E.R.D.",
+      "has_synced": true,
+      "path": "select/09_I've_Seen_The_Light_\u0000_Inside_of_Clouds_N.E.R.D..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Golden Clouds",
+      "artist": "The Orb feat. Lee \"Scratch\" Perry",
+      "has_synced": false,
+      "path": "select/10_Golden_Clouds_The_Orb_feat._Lee__Scratch__Perry.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Golden Clouds",
+      "artist": "The Orb (feat. Lee Scratch Perry)",
+      "has_synced": false,
+      "path": "select/11_Golden_Clouds_The_Orb_(feat._Lee_Scratch_Perry).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Little Fluffy Clouds",
+      "artist": "The Orb",
+      "has_synced": true,
+      "path": "select/12_Little_Fluffy_Clouds_The_Orb.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Little Fluffy Clouds (Cumulonimbus mix edit)",
+      "artist": "The Orb",
+      "has_synced": false,
+      "path": "select/13_Little_Fluffy_Clouds_(Cumulonimbus_mix_edit)_The_Orb.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Little Fluffy Clouds (Cumulonimbus Mix)",
+      "artist": "The Orb",
+      "has_synced": false,
+      "path": "select/14_Little_Fluffy_Clouds_(Cumulonimbus_Mix)_The_Orb.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Little Fluffy Clouds (Dance Mix 2)",
+      "artist": "The Orb",
+      "has_synced": true,
+      "path": "select/15_Little_Fluffy_Clouds_(Dance_Mix_2)_The_Orb.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Little Fluffy Clouds (Heavyweight dub)",
+      "artist": "The Orb",
+      "has_synced": false,
+      "path": "select/16_Little_Fluffy_Clouds_(Heavyweight_dub)_The_Orb.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "clouds",
+      "artist": "JVKE",
+      "has_synced": false,
+      "path": "select/pl_01_clouds_JVKE.txt"
+    }
+  ]
+}
